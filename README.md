@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gangesh Bharadwaj</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Platform Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangeshb&label=Profile%20views&color=0e75b6&style=flat" alt="gangeshb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gangeshb" alt="gangeshb" /></a> </p>
 
-- 🔭 I’m currently working on **Backed Development**
+- 🔭 I'm currently **architecting scalable, secure Cloud Infrastructure on AWS**.
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 💬 Ask me about **Software Engineering, Backend, DevOps,Competitive Coding**
+- 💬 Ask me about **Software Engineering, Backend, DevOps, Cloud**
 
 - 📫 How to reach me **work.gangesh@gmail.com**
 
