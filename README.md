@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gangesh Bharadwaj</h1>
 <h3 align="center">A passionate Platform Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gangeshb" alt="gangeshb" /></a> </p>
-
 - 🔭 I'm currently **architecting scalable, secure Cloud Infrastructure on AWS**.
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
