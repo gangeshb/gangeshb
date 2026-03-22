@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangeshb&label=Profile%20views&color=0e75b6&style=flat" alt="gangeshb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gangeshb" alt="gangeshb" /></a> </p>
-
 - 🔭 I'm currently **architecting scalable, secure Cloud Infrastructure on AWS**.
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
